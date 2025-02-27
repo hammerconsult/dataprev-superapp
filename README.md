@@ -2,7 +2,7 @@
 
 ## Visão Geral
 O **SuperApp** é uma aplicação mobile desenvolvida em **React Native** utilizando o **Expo** para facilitar o acesso a diversos serviços públicos brasileiros. O aplicativo permite login único via **Gov.br**, possibilitando a navegação entre serviços como **Meu INSS, Cadastro Único e Carteira de Trabalho Digital** sem necessidade de múltiplas autenticações.
-
+MApa de funcionalidades: https://hammerconsult.github.io/dataprev-superapp/
 ---
 
 ## 📌 Tecnologias Utilizadas
