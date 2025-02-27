@@ -56,7 +56,7 @@ O **SuperApp** é uma aplicação mobile desenvolvida em **React Native** utiliz
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-repositorio/superapp.git
+   git clone https://github.com/hammerconsult/dataprev-superapp/superapp.git
    cd superapp
    ```
 
