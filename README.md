@@ -6,7 +6,7 @@ O **SuperApp** é uma aplicação mobile desenvolvida em **React Native** utiliz
 Mapa de funcionalidades: https://hammerconsult.github.io/dataprev-superapp/
 
 Arquitetura de Solução Proposta:
-!([https://i.ibb.co/d0rYkSY2/Ideacao-Arquitetural-Super-App-drawio-1.png](https://i.ibb.co/d0rYkSY2/Ideacao-Arquitetural-Super-App-drawio-1.png))
+![Ideação Arquitetural Super App](https://i.ibb.co/d0rYkSY2/Ideacao-Arquitetural-Super-App-drawio-1.png)
 
 ---
 
